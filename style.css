@@ -1,0 +1,18 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+input {
+    font-weight: bold;
+    padding: 1em;
+}
